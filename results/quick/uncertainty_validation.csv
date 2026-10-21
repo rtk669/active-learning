@@ -1,0 +1,4 @@
+strategy,stage,labeled_count,split,accuracy,precision,recall,f1,false_positive,false_negative,true_positive,true_negative
+uncertainty,0,500,validation,0.573,0.8557692307692307,0.17764471057884232,0.29421487603305785,15,412,89,484
+uncertainty,1,750,validation,0.501,0.501,1.0,0.6675549633577615,499,0,501,0
+uncertainty,2,1000,validation,0.617,0.5814917127071824,0.8403193612774451,0.6873469387755102,303,80,421,196

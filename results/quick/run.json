@@ -1,0 +1,26 @@
+{
+  "config": {
+    "mode": "quick",
+    "seed": 42,
+    "initial_size": 500,
+    "pool_size": 2500,
+    "validation_size": 1000,
+    "test_size": 2000,
+    "cycles": 2,
+    "query_size": 250,
+    "epochs": 3,
+    "batch_size": 64,
+    "vocab_size": 10000,
+    "max_length": 200,
+    "embedding_dim": 32,
+    "learning_rate": 0.001
+  },
+  "python": "3.13.3",
+  "tensorflow": "2.21.0",
+  "keras": "3.15.1",
+  "numpy": "2.5.4",
+  "sklearn": "1.9.1",
+  "platform": "macOS-26.0.1-arm64-arm-64bit-Mach-O",
+  "device": "CPU",
+  "status": "complete"
+}
